@@ -1,15 +1,15 @@
 {
-  "name": "Cactus",
+  "name": "ShaleApps",
   "version": "1.0.0",
-  "description": "A minimalistic theme for Ghost inspired by Cactus for Mac.",
+  "description": "A release notes management theme for Ghost by ShaleApps.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/haydenbleasel/ghost-themes.git"
+    "url": "https://github.com/ShaleApps/ghost-themes"
   },
-  "author": "Hayden Bleasel <haydenbleasel@gmail.com>",
+  "author": "Sam McLaughlin <sam@shaleapps.com>",
   "bugs": {
-    "url": "https://github.com/haydenbleasel/ghost-themes/issues"
+    "url": "https://github.com/ShaleApps/ghost-themes/issues"
   },
-  "homepage": "https://github.com/haydenbleasel/ghost-themes",
+  "homepage": "https://github.com/ShaleApps/ghost-themes",
   "private": true
 }
